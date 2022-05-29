@@ -32,7 +32,7 @@ int main()
 	g1.shrink_to_fit(); 
 	cout << "\nVector elements are: "; 
 	for (auto it = g1.begin(); it != g1.end(); it++) 
-		cout << *it << " "; 
+		cout << *it << "utsav "; 
 
 	return 0; 
 } 
